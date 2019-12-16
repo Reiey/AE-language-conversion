@@ -1,6 +1,3 @@
-# AE-language-conversion
-Modify application.xml
-
 前言
 --
 
